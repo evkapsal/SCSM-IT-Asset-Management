@@ -1,0 +1,24 @@
+<CSVImportFormat>  
+   <Class Type="Hardware">  
+	<Property ID="HardwareID"/> <!-- HWID{0} Auto Increase-->
+	<Property ID="AssetClass"/> <!-- Enumeration *Optional-->
+	<Property ID="AssetTag"/> <!-- String *Optional-->
+	<Property ID="DeviceName"/> <!-- String Mandatory-->
+	<Property ID="DeviceType"/> <!-- Enumeration *Optional-->
+	<Property ID="IPAddress"/> <!--String *Optional-->
+	<Property ID="MACAddress"/> <!-- String *Optional-->
+	<Property ID="OSFoundation"/> <!-- Enumeration *Optional-->
+	<Property ID="OSName"/> <!-- String *Optional-->
+	<Property ID="ObjectHash"/> <!-- String *Optional-->
+	<Property ID="OSType"/> <!--Enumeration *Optional-->
+	<Property ID="OSVersion"/> <!-- Enumeration *Optional-->
+	<Property ID="PhysicalCores"/> <!-- Integer *Optional-->
+	<Property ID="PhysicalProcessors"/> <!-- Integer *Optional-->
+	<Property ID="Memory"/> <!-- Integer *Optional-->
+	<Property ID="PhysicalSockets"/> <!-- Integer *Optional-->
+	<Property ID="ProcessorFamily"/> <!-- Enumeration *Optional-->
+	<Property ID="SerialNumber"/> <!-- String *Optional -->
+	<Property ID="LastDiscoveredDate"/> <!--Datetime Property *Optional-->
+	<Property ID="LastModifiedSync"/> <!-- Datetime Property *Optional-->
+   </Class>  
+</CSVImportFormat>  
