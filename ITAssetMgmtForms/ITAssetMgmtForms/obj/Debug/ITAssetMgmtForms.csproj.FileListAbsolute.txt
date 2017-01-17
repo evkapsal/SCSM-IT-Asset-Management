@@ -1,0 +1,855 @@
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.pdb
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.ServiceManager.Application.Common.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.ServiceManager.SharedResources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Core.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.ExtendedControls.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Extensions.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.FormsInfra.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Foundation.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfViews.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\WPFToolKit.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.ConsoleFramework.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\CommunicatorAPIInterop.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\CommunicatorPrivateInterop.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.Config.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.FormsInfra.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Foundation.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.WpfViews.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\WPFToolKit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\WPFToolKit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\WPFToolKit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\WPFToolKit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\WPFToolKit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\WPFToolKit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\WPFToolKit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\WPFToolKit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\WPFToolKit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\WPFToolKit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csprojResolveAssemblyReference.cache
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OtherSettingForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.g.cs
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.cache
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.lref
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OtherSettingForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.baml
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.g.resources
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.Properties.Resources.resources
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csproj.GenerateResource.Cache
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.pdb
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.pdb
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Extensions.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfViews.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\WPFToolKit.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.ConsoleFramework.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.Config.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Extensions.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\WPFToolKit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\WPFToolKit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\WPFToolKit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\WPFToolKit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\WPFToolKit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\WPFToolKit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\WPFToolKit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\WPFToolKit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\WPFToolKit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\WPFToolKit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ConsoleFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csprojResolveAssemblyReference.cache
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LeaseAgreementForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OtherSettingForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.g.cs
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.cache
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.lref
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LeaseAgreementForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OtherSettingForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.baml
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.g.resources
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.Properties.Resources.resources
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csproj.GenerateResource.Cache
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.pdb
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.pdb
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.ExtendedControls.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfViews.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\WPFToolKit.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.Core.SdkUtilities.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\CommunicatorAPIInterop.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\CommunicatorPrivateInterop.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.Config.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.CSVImport.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.SMCriteria.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ExtendedControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.SMControls.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\WPFToolKit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\WPFToolKit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\WPFToolKit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\WPFToolKit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\WPFToolKit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\WPFToolKit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\WPFToolKit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\WPFToolKit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\WPFToolKit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\WPFToolKit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csprojResolveAssemblyReference.cache
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\DeviceManufacturerForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LeaseAgreementForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\MobileDeviceForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ModelForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\NetworkDeviceForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OtherSettingForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PrinterForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\StorageDeviceForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.g.cs
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.cache
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.lref
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\DeviceManufacturerForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LeaseAgreementForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\MobileDeviceForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ModelForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\NetworkDeviceForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OtherSettingForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PrinterForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\StorageDeviceForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.baml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.g.resources
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.Properties.Resources.resources
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csproj.GenerateResource.Cache
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.pdb
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.pdb
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Core.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csprojResolveAssemblyReference.cache
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\DeviceManufacturerForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LeaseAgreementForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\MobileDeviceForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ModelForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\NetworkDeviceForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OtherSettingForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PrinterForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\StorageDeviceForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.g.cs
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.cache
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.lref
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\DeviceManufacturerForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LeaseAgreementForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\MobileDeviceForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ModelForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\NetworkDeviceForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OtherSettingForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PrinterForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\StorageDeviceForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.baml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.g.resources
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.Properties.Resources.resources
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csproj.GenerateResource.Cache
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.pdb
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.pdb
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Core.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\WPFToolKit.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\WPFToolKit.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\WPFToolKit.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\WPFToolKit.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\WPFToolKit.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\WPFToolKit.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\WPFToolKit.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\WPFToolKit.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\WPFToolKit.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\WPFToolKit.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\WPFToolKit.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csprojResolveAssemblyReference.cache
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\DeviceManufacturerForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LeaseAgreementForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\MobileDeviceForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ModelForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\NetworkDeviceForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OtherSettingForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PrinterForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\StorageDeviceForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.g.cs
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.cache
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.lref
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\DeviceManufacturerForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LeaseAgreementForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\MobileDeviceForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ModelForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\NetworkDeviceForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OtherSettingForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PrinterForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\StorageDeviceForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.baml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.g.resources
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.Properties.Resources.resources
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csproj.GenerateResource.Cache
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.pdb
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ITAssetMgmtForms.pdb
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Core.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\DeviceManufacturerForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LeaseAgreementForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LogAnalyticsForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\MobileDeviceForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ModelForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\NetworkDeviceForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PrinterForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\Resources.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\StorageDeviceForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.g.cs
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.cache
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms_MarkupCompile.lref
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AdGroupSyncConnectorForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AmazonConnectorForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\AzureConnectorForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\BaseSettingsForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CompanyForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ContactsForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostCenterForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\CostForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\DeviceManufacturerForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAgreementForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareAssetForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareConnectorForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\HardwareForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\InvoiceForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LeaseAgreementForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseConnectorForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LicenseForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LocationForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\LogAnalyticsForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\MobileDeviceForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ModelForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\NetworkDeviceForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\OrganizationForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PrinterForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ProductKeyForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\PurcaseOrderForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SKUForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAgreementForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareAssetForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareConnectorForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwarePublisherForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SoftwareVersionForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\StorageDeviceForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\SupportAgreementForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserRoleForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\UserShortCutForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\WorkFlowForm.baml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.g.resources
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.Properties.Resources.resources
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.csproj.GenerateResource.Cache
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetMgmtForms\ITAssetMgmtForms\obj\Debug\ITAssetMgmtForms.pdb

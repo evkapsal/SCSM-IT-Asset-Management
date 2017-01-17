@@ -1,0 +1,226 @@
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.pdb
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ConfigurationManagement.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Common.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Config.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Core.SdkUtilities.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.CSVImport.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.DataAccessLayer.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Forms.CustomizationControlLibrary.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Forms.CustomizationLibrary.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Reporting.Code.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.ServiceManager.Application.Common.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.ServiceManager.SharedResources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.SqmBase.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.ConsoleFramework.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.Controls.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.Core.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.ExtendedControls.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.Extensions.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.FormsInfra.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.Foundation.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.ReportingFramework.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.SdkDataAccess.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.WindowsUtility.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\WPFToolkit.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfViews.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Warehouse.Utility.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\WPFToolkit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\WPFToolkit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\WPFToolkit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\WPFToolkit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\WPFToolkit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\WPFToolkit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\WPFToolkit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\WPFToolkit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\WPFToolkit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\WPFToolkit.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.csprojResolveAssemblyReference.cache
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.dll
+C:\Users\evkapsal\Documents\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.pdb
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.csprojResolveAssemblyReference.cache
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.pdb
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ConfigurationManagement.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\WPFToolkit.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfViews.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Warehouse.Utility.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\WPFToolkit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\WPFToolkit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\WPFToolkit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\WPFToolkit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\WPFToolkit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\WPFToolkit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\WPFToolkit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\WPFToolkit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\WPFToolkit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\WPFToolkit.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.pdb
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.pdb
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ConfigurationManagement.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Core.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.ServiceManager.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\WPFToolkit.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfViews.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Warehouse.Utility.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ADODB.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\WPFToolkit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\WPFToolkit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\WPFToolkit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\WPFToolkit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\WPFToolkit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\WPFToolkit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\WPFToolkit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\WPFToolkit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\WPFToolkit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\WPFToolkit.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.csprojResolveAssemblyReference.cache
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.dll
+D:\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.pdb
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.pdb
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ConfigurationManagement.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Core.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.ServiceManager.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.SMControls.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\WPFToolkit.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfWizardFramework.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.WpfViews.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.UI.ViewFramework.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Warehouse.Utility.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ADODB.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.Core.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\WPFToolkit.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\WPFToolkit.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\WPFToolkit.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\WPFToolkit.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\WPFToolkit.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\WPFToolkit.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\WPFToolkit.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\WPFToolkit.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\WPFToolkit.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\WPFToolkit.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\de\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\en\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\es\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\fr\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\it\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ja\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ko\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ru\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHS\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\zh-CHT\Microsoft.EnterpriseManagement.UI.ViewFramework.resources.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.csprojResolveAssemblyReference.cache
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.dll
+C:\Users\evkapsal.EUROPE\Documents\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.pdb
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.pdb
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ConfigurationManagement.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Core.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.ServiceManager.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ADODB.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.csprojResolveAssemblyReference.cache
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.dll
+C:\Users\evkapsal\OneDrive for Business\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.pdb
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ITAssetManagementTasks.pdb
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ConfigurationManagement.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.Core.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.EnterpriseManagement.ServiceManager.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\ADODB.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.csprojResolveAssemblyReference.cache
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.dll
+C:\Users\evkapsal.EUROPE\OneDrive - Microsoft\ITSM 2015\IT Asset Management Management Pack\IT Asset Management Base\ITAssetManagementTasks\obj\Debug\ITAssetManagementTasks.pdb
